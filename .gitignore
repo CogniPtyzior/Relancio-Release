@@ -1,0 +1,15 @@
+# Release assets
+*.zip
+
+# Optional packaged installers / archives
+*.msi
+*.exe
+*.deb
+*.rpm
+*.tar.gz
+*.AppImage
+
+# Local release staging folders
+release-assets/
+dist/
+publish/
