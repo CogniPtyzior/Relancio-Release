@@ -1,6 +1,9 @@
 # Release assets
 *.zip
 
+# Powershell
+*.ps1
+
 # Optional packaged installers / archives
 *.msi
 *.exe
